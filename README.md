@@ -1,6 +1,8 @@
-## Your Name
+## Emily Sesto
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a creative problem-solver, currently studying at Makers Academy to become a Junior Full Stack Developer. With a background in both the Performing Arts and Biochemistry, Software Development has given me the opportunity to use both halves of my brain equally. At Makers Academy, I have been learning key skills and best coding practices, including object-oriented programming, test-driven development, pair programming, and the ability to easily pick up new programming languages. 
+
+My diverse experience and scientific educational background has enabled me to develop into a well-rounded, detail-oriented and hard-working team member. Most importantly, I am thriving in an industry where I will never be able to stop learning. I am keen to get started with a career in web development and can’t wait to begin contributing my own ideas to the scene.
 
 ## Projects
 
@@ -11,54 +13,68 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Mob45** (October 2017 - Current)  
+_Receptionist_
 
-- Any experience relevent to software development
+- First point of contact for all customer enquires.
+- Responsible for banking, debtors and pending memberships.
+- Assist club managers and sales team to process all sales enquiries.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelancer** (2012 - Current)  
+_Actor_
 
-- Any experience relevent to software development
+- Organise and lead rehearsals.
+- Excellent team work, communication and presentation skills.
+
+**Re-Hospitality** (June 2016 - October 2017)
+_Waitress_
+
+- Delivered exceptional service at VIP events including The Brits, Henley Regatta and the Chealsea Flower Show.
+- Prepared large venues in limited time to a high standard.
+- Maintained immaculate presentation.
+
+**Operation Wallacea** (August - September 2013)
+_Research Assistant_ 
+
+- Undertook population studies of local species.
+- Assessed coral reef health.
+- Data entry and analysis.
+- Lead hikes whilst responsible for health and safety of a team.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+**Problem-solving**
+- I achieved an A* in GCSE Mathematics one year early and have always been adept at problem-solving and self-motivating. I thrive in logical subjects and al always challenging myself. 
+- In my spare time, I enjoy logical games and I have recently surpassed 1000 points on Codewars.
 
-#### This Skill
+**Self-teaching**
+- Before enrolling at Makers, I self-taught for six months and became proficient in both Ruby and Python.
+- I am undertaking CS50s Introduction to Computer Science online course, to gain a broader understanding of Computer Science and gain familiarity with new languages including C and SQL.
+- Fitness is important to me and, in addition to working out often, I completed an online Personal Training qualification with Premier Global in 2019 to gain a better understanding of physiology and efficient training.
 
-- Experience
-- Achievements
-- Evidence
+**Communication and Team Work**
+- My experience as an actor has long required excellent communication skills and the ability to build meaningful and trusting relationships with team members. As a result, working as part of a team comes nagturally to me and I am an active listener, an avid learner and am always looking for new ways to contribute to a team.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2020 - December 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Finchley Catholic High School (2010-2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- A-levels in Mathematics (A), Chemistry (A), Biology (A)
+- AS-level in Economics (A)
+- Math mentor to GCSE and AS Level students
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Avid gamer
+- Writer
+- Traveller
+
