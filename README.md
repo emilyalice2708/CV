@@ -2,14 +2,15 @@
 
 I am a creative problem-solver, currently studying at Makers Academy to become a Junior Full Stack Developer. With a background in both the Performing Arts and Biochemistry, Software Development has given me the opportunity to use both halves of my brain equally. At Makers Academy, I have been learning key skills and best coding practices, including object-oriented programming, test-driven development, pair programming, and the ability to easily pick up new programming languages. 
 
-My diverse experience and scientific educational background has enabled me to develop into a well-rounded, detail-oriented and hard-working team member. Most importantly, I am thriving in an industry where I will never be able to stop learning. I am keen to get started with a career in web development and can’t wait to begin contributing my own ideas to the scene.
+My diverse experience and scientific educational background has enabled me to develop into an team-member with excellent creative, communicative and problem-solving skills. I am thriving in an industry where I will never be able to stop learning. I am excited to thrive in a career where I will never stop learning and keen to begin contributing my own work and ideas to the industry.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description            | Tech/tools        |
+| ---------------------------- | -----------------      | ----------------- |
+| **Final project**            | A webapp to do x.      | React, Jest, etc. |
+| **Something else worked on** | A webapp to do y.      | Ruby              |
+| **Student Directory**        | Command-line programme | Ruby              |
 
 ## Experience
 
@@ -19,6 +20,7 @@ _Receptionist_
 - First point of contact for all customer enquires.
 - Responsible for banking, debtors and pending memberships.
 - Assist club managers and sales team to process all sales enquiries.
+- Adaptability and flexibility - 
 
 **Freelancer** (2012 - Current)  
 _Actor_
@@ -29,7 +31,7 @@ _Actor_
 **Re-Hospitality** (June 2016 - October 2017)
 _Waitress_
 
-- Delivered exceptional service at VIP events including The Brits, Henley Regatta and the Chealsea Flower Show.
+- Worked as part of a team to deliver exceptional service at VIP events including The Brits, Henley Regatta and the Chealsea Flower Show.
 - Prepared large venues in limited time to a high standard.
 - Maintained immaculate presentation.
 
@@ -44,16 +46,18 @@ _Research Assistant_
 ## Skills
 
 **Problem-solving**
-- I achieved an A* in GCSE Mathematics one year early and have always been adept at problem-solving and self-motivating. I thrive in logical subjects and al always challenging myself. 
+- I studied Biochemistry for one year at Imperial College London, where I learnt how to solve problems methodically during weekly lab sessions where we investigated life systems. 
+- I achieved an A* in GCSE Mathematics one year early and have always been adept at problem-solving and self-motivating. I thrive in logical subjects and am always challenging myself. 
 - In my spare time, I enjoy logical games and I have recently surpassed 1000 points on Codewars.
 
 **Self-teaching**
-- Before enrolling at Makers, I self-taught for six months and became proficient in both Ruby and Python.
-- I am undertaking CS50s Introduction to Computer Science online course, to gain a broader understanding of Computer Science and gain familiarity with new languages including C and SQL.
+- Before enrolling at Makers, I self-taught for six months and became proficient in both Ruby and Python, during whcih time I became adept at managing my own learning, time and workload.
+- I am undertaking CS50s Introduction to Computer Science online course to gain a broader understanding of Computer Science and gain familiarity with new languages including C and SQL.
 - Fitness is important to me and, in addition to working out often, I completed an online Personal Training qualification with Premier Global in 2019 to gain a better understanding of physiology and efficient training.
 
 **Communication and Team Work**
-- My experience as an actor has long required excellent communication skills and the ability to build meaningful and trusting relationships with team members. As a result, working as part of a team comes nagturally to me and I am an active listener, an avid learner and am always looking for new ways to contribute to a team.
+- Acting requires excellent communication skills. The ability to build meaningful and trusting relationships is incredibly important as every new job begins with a new team. As a result, relationship-building and teamwork comes naturally to me and I am an active listener, an avid learner and am always looking for new ways to contribute to a team.
+- While working at Mob45, I built rapport with customers which helped to foster customer loyalty. On numerous occasions, customers were dissuaded from trying out other gyms because their experience at ours was so enriched by positive interactions with staff and the welcoming environment created by us.
 
 
 ## Education
