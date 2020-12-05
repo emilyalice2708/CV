@@ -19,8 +19,9 @@ _Receptionist_
 
 - First point of contact for all customer enquires.
 - Responsible for banking, debtors and pending memberships.
-- Assist club managers and sales team to process all sales enquiries.
-- Built excellent rapport with customers.
+- Assist club managers and sales team with potential members and sales tours.
+- Process all sales enquiries.
+- Build excellent rapport with customers.
 
 **Freelancer** (2012 - Current)
 _Actor_
@@ -31,7 +32,7 @@ _Actor_
 **Re-Hospitality** (June 2016 - October 2017)
 _Waitress_
 
-- Worked as part of a team to deliver exceptional service at VIP events including The Brits, Henley Regatta and the Chealsea Flower Show.
+- Worked as part of a team to deliver exceptional service at VIP events including The Brits, Henley Regatta and the Chelsea Flower Show.
 - Prepared large venues in limited time to a high standard.
 - Maintained immaculate presentation.
 
