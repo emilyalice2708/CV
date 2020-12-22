@@ -1,16 +1,16 @@
 ## Emily Sesto
 
-I am a creative problem-solver, currently studying at Makers Academy to become a Junior Full Stack Developer. With a background in both the Performing Arts and Biochemistry, Software Development has given me the opportunity to use both halves of my brain equally. At Makers Academy, I have been learning key skills and best coding practices, including object-oriented programming, test-driven development, pair programming, and the ability to easily pick up new programming languages. 
+I am a recent graduate from Makers Academy, where I studied to become a Junior Full Stack Developer. With a background in both the Performing Arts and Biochemistry, Software Development has given me the opportunity to use both my creativity and problem-solving capabilities. At Makers Academy, I have been learning key skills and best coding practices, including object-oriented programming, test-driven development, pair programming, and the ability to easily pick up new programming languages. I am experienced in Javascript and Ruby and the Rails and React frameworks.
 
-My diverse experience and scientific educational background has enabled me to develop into an team-member with excellent creative, communicative and problem-solving skills. I am excited to begin a career which will allow for life-long learning and am keen to begin contributing my own work and ideas to the industry.
+My diverse experience and scientific educational background has enabled me to develop into an team-member with excellent creative, interpersonal and problem-solving skills. I am excited to begin a career which will allow for life-long learning and am keen to begin contributing my own work and ideas to the industry.
 
 ## Projects
 
-| Name                         | Description            | Tech/tools        |
-| ---------------------------- | -----------------      | ----------------- |
-| **Final project**            | A webapp to do x.      | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y.      | Ruby              |
-| **Student Directory**        | Command-line programme | Ruby              |
+| Name                         | Description            | Tech/tools        | Repo |
+| ---------------------------- | -----------------      | ----------------- |-------|
+| Le Chicken            | A language-learning RPG      | Javascript, React, Jest, Cypress. | https://github.com/emilyalice2708/le-chicken |
+| Basic Banking | A command-line banking programme     | Javascript, Jest.              | https://github.com/emilyalice2708/bank-test-javascript
+| Take-Away        | A command-line take-away programme| Ruby, RSpec, Twilio.              | https://github.com/emilyalice2708/takeaway-challenge
 
 ## Experience
 
@@ -54,7 +54,7 @@ _Research Assistant_
 **Self-teaching**
 - Before enrolling at Makers, I self-taught for six months and became proficient in both Ruby and Python, during which time I became adept at managing my own learning, time and workload.
 - I am undertaking CS50s Introduction to Computer Science online course to gain a broader understanding of Computer Science and gain familiarity with new languages including C and SQL.
-- Whilst working at the gym, fitness became increasingly imprtant to me and I recognised the potential benefits of developing a more thorough understanding of physiology and efficient training. I would be better able to assist customers and my own ability to train would be improved. As a result, I successfully completed an online Personal Training qualification with Premier Global in 2019.
+- Whilst working at the gym, fitness became increasingly imprtant to me and I recognised the potential benefits of developing a more thorough understanding of physiology and efficient training. I would be better able to assist customers and my own ability to train would be improved. As a result, I undertook ad  successfully completed an online Personal Training qualification with Premier Global in 2019.
 
 **Communication and Team Work**
 - Acting requires excellent communication skills. The ability to build meaningful and trusting relationships is incredibly important as every new job begins with a new team. As a result, relationship-building and teamwork comes naturally to me and I am an active listener, an avid learner and am always looking for new ways to contribute to a team.
@@ -67,8 +67,8 @@ _Research Assistant_
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React
+- RSpec, Jasmine, Jest, Cypress
 
 #### Finchley Catholic High School (2010-2012)
 
