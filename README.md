@@ -10,7 +10,7 @@ My diverse experience and scientific educational background has enabled me to de
 | ---------------------------- | -----------------      | ----------------- |-------|
 | Le Chicken            | A language-learning RPG      | Javascript, React, Jest, Cypress. | https://github.com/emilyalice2708/le-chicken |
 | Basic Banking | A command-line banking programme     | Javascript, Jest.              | https://github.com/emilyalice2708/bank-test-javascript
-| Take-Away        | A command-line take-away programme| Ruby, RSpec, Twilio.              | https://github.com/emilyalice2708/takeaway-challenge
+| Take-Away        | A command-line take-away programme| Ruby, RSpec.              | https://github.com/emilyalice2708/takeaway-challenge
 
 ## Experience
 
