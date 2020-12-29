@@ -79,6 +79,7 @@ _Research Assistant_
 
 ## Hobbies
 
+- Actor
 - Avid gamer
 - Writer
 - Traveller
