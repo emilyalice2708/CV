@@ -53,8 +53,8 @@ _Research Assistant_
 
 **Self-teaching**
 - Before enrolling at Makers, I self-taught for six months and became proficient in both Ruby and Python, during which time I became adept at managing my own learning, time and workload.
-- I am undertaking CS50s Introduction to Computer Science online course to gain a broader understanding of Computer Science and gain familiarity with new languages including C and SQL.
-- Whilst working at the gym, fitness became increasingly imprtant to me and I recognised the potential benefits of developing a more thorough understanding of physiology and efficient training. I would be better able to assist customers and my own ability to train would be improved. As a result, I undertook ad  successfully completed an online Personal Training qualification with Premier Global in 2019.
+- In 2020, I completed CS50s Intro to Computer Science online course to gain a broader understanding of Computer Science and familiarity with new languages including C, SQL and Lua.
+- Whilst working at the gym, fitness became increasingly important to me and I recognised the potential benefits of a more thorough understanding of physiology and efficient training, with regards to both my job and my personal fitness. Consequently, I undertook and successfully completed an online Personal Training qualification with Premier Global in 2019.
 
 **Communication and Team Work**
 - Acting requires excellent communication skills. The ability to build meaningful and trusting relationships is incredibly important as every new job begins with a new team. As a result, relationship-building and teamwork comes naturally to me and I am an active listener, an avid learner and am always looking for new ways to contribute to a team.
