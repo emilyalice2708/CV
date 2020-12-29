@@ -14,7 +14,7 @@ My diverse experience and scientific educational background has enabled me to de
 
 ## Experience
 
-**Mob45** (October 2017 - Current)  
+**Gymbox** (October 2017 - Current)  
 _Receptionist_
 
 - First point of contact for all customer enquires.
