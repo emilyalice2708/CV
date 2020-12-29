@@ -57,8 +57,8 @@ _Research Assistant_
 - Whilst working at the gym, fitness became increasingly important to me and I recognised the potential benefits of a more thorough understanding of physiology and efficient training, with regards to both my job and my personal fitness. Consequently, I undertook and successfully completed an online Personal Training qualification with Premier Global in 2019.
 
 **Communication and Team Work**
-- Acting requires excellent communication skills. The ability to build meaningful and trusting relationships is incredibly important as every new job begins with a new team. As a result, relationship-building and teamwork comes naturally to me and I am an active listener, an avid learner and am always looking for new ways to contribute to a team.
-- While working at Mob45, I built rapport with customers which helped to foster customer loyalty. On numerous occasions, customers were dissuaded from trying out other gyms because their experience at ours was so enriched by positive interactions with staff and the welcoming environment created by us.
+- Acting requires excellent communication and collaboration skills. The ability to build meaningful and trusting relationships is incredibly important as eery new acting job begins with a new team. As a result, relationship-building and teamwork comes naturally to me and I am an active listener, an avid learner and am always looking for new ways to contribute to a team.
+- Whilst working at Gymbox, I built rapport with customers, which helped to foster customer loyalty. On numerous occasions, customers were dissuaded from sampling other gyms because their experience at ours was so enriched with positive interactions with the staff and the welcoming environment created by us.
 
 
 ## Education
