@@ -2,7 +2,7 @@
 
 I am a recent graduate from Makers Academy, a 12-week Software Engineering bootcamp. With a background in both the Performing Arts and Biochemistry, Software Development has given me the opportunity to use both my creativity and problem-solving capabilities. 
 
-At Makers Academy, I learnt key skills and best coding practices, including object-oriented programming, test-driven development, pair programming, and the ability to easily pick up new programming languages. My programming language experience includes Ruby, Javascript, C# and Python.
+At Makers Academy, I learnt key skills and best coding practices, including object-oriented programming, test-driven development, pair programming, and the ability to efficiently learn new programming languages. My programming language experience includes Ruby, Javascript, C# and Python.
 
 My diverse experience and scientific educational background has enabled me to develop into a team-member with excellent creative, interpersonal and problem-solving skills. I am excited to begin a career which will allow for life-long learning and am keen to begin contributing my own work and ideas to the industry.
 
