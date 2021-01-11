@@ -52,7 +52,7 @@ _Research Assistant_
 **Problem-solving**
 - I studied Biochemistry for one year at Imperial College London, where I learnt how to solve problems methodically.
 - At Makers we were given new coding challenges each week. As a result, I have learnt to persevere and think creatively when tackling new problems.
-- In my spare time, I enjoy logical games and recently surpassed 1000 points on Codewars.
+- In my spare time, I enjoy logical games and have surpassed 1000 points on Codewars.
 - I achieved an A* in GCSE Mathematics one year early and have always been adept at problem-solving and self-motivating. I thrive in logical subjects and am always challenging myself. 
 
 **Self-teaching**
