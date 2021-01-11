@@ -49,18 +49,18 @@ _Research Assistant_
 
 ## Skills
 
-**Problem-solving**
+**Problem Solving**
 - I studied Biochemistry for one year at Imperial College London, where I learnt how to solve problems methodically.
 - At Makers we were given new coding challenges each week. As a result, I have learnt to persevere and think creatively when tackling new problems.
 - In my spare time, I enjoy logical games and have surpassed 1000 points on Codewars.
 - I achieved an A* in GCSE Mathematics one year early and have always been adept at problem-solving and self-motivating. I thrive in logical subjects and am always challenging myself. 
 
-**Self-teaching**
+**Self-Teaching**
 - Before enrolling at Makers, I was self-taught in both Ruby and Python and became adept at managing my own time and learning.
 - In 2020, I completed CS50s Intro to Computer Science online course and built basic programmes with new languages including C, Python, SQL and Lua.
 - While working at the gym, I recognised the benefits of a thorough understanding of physiology and training, with respect to my job and personal fitness. Consequently, I completed an online Personal Training qualification with Premier Global in 2019.
 
-**Communication and Team Work**
+**Communication and Teamwork**
 - Acting requires excellent communication and collaboration skills and the ability to build meaningful and trusting relationships. I am an active listener, an avid learner and am always looking for new ways to contribute to a team.
 - At Gymbox, I built rapport with customers, which helped to foster customer loyalty. Customers were often dissuaded from sampling other gyms because their experience at our gym was so enriched with positive interactions with the staff.
 
