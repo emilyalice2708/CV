@@ -76,9 +76,9 @@ _Research Assistant_
 
 ### Harvard Online CS50 Introduction to Computer Science (June 2020 - December 2020)
 
-- A broad and robust understanding of Computer Science and Programming.
-- Thinking algorithmically and solving problems efficiently.
-- Concepts such as abstraction, algorithms, data structures, encapsulation, software engineering and web development.
+- A broad and robust understanding of Computer Science and Programming
+- Thinking algorithmically and solving problems efficiently
+- Concepts such as abstraction, algorithms, data structures, encapsulation, software engineering and web development
 - C, Python, SQL, Lua
 
 #### Finchley Catholic High School (2010-2012)
