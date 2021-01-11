@@ -74,7 +74,7 @@ _Research Assistant_
 - Ruby, Rails, Sinatra, Javascript, React, React Native, C#, Unity, Expo Client
 - RSpec, Jasmine, Jest, Cypress, Capybara
 
-### Harvard Online CS50 Introduction to Computer Science (June 2020 - December 2020)
+#### Harvard Online CS50 Introduction to Computer Science (June 2020 - December 2020)
 
 - A broad and robust understanding of Computer Science and Programming
 - Thinking algorithmically and solving problems efficiently
