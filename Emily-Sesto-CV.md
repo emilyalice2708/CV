@@ -11,7 +11,7 @@ My diverse experience and scientific educational background has enabled me to de
 | Name                         | Description            | Tech/tools        | Repo |
 | ---------------------------- | -----------------      | ----------------- |-------|
 | Le Chicken            | Mobile language-learning RPG      | Javascript, React-Native, Jest, Cypress. | https://github.com/emilyalice2708/le-chicken |
-| Basic Banking | Command-line banking programme     | Javascript, Jest.              | https://github.com/emilyalice2708/bank-test-javascript |
+| Bank | Command-line banking programme     | Javascript, Jest.              | https://github.com/emilyalice2708/bank-test-javascript |
 | Bookmark Manager | Web app for managing bookmarks | Ruby, Sinatra, SQL, RSpec, Capybara | https://github.com/emilyalice2708/bookmark-manager |
 | Take-Away        | Command-line food take-away programme| Ruby, Twilio, RSpec.              | https://github.com/emilyalice2708/takeaway-challenge |
 
